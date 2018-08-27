@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[ORACLE DB 内存管理]]></title>
-    <url>%2F2018%2F08%2F26%2FORACLE-DB-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%2F</url>
-    <content type="text"><![CDATA[SGA 体系内容 共享池 大池 固定SGA 重做缓冲区 快缓冲区]]></content>
-      <categories>
-        <category>ORACLE DB</category>
-      </categories>
-      <tags>
-        <tag>SGA PGA</tag>
-      </tags>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F08%2F27%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F07%2F30%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title><![CDATA[HEXO_next 主题个性配置]]></title>
+    <url>%2F2018%2F08%2F26%2Fblog%E4%B8%AA%E6%80%A7%E9%85%8D%E7%BD%AE%2F</url>
+    <content type="text"><![CDATA[文章字数统计及耗时功能参加网址 https://github.com/theme-next/hexo-symbols-count-time]]></content>
+      <categories>
+        <category>HEXO</category>
+      </categories>
+      <tags>
+        <tag>HEXO</tag>
+        <tag>NEXT 主题</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[categories]]></title>
