@@ -32,7 +32,7 @@
   <entry>
     <title><![CDATA[HEXO_next 主题个性配置]]></title>
     <url>%2Fpost%2F84c36509.html</url>
-    <content type="text"><![CDATA[文章字数统计及耗时功能参加网址 https://github.com/theme-next/hexo-symbols-count-time]]></content>
+    <content type="text"><![CDATA[文章字数统计及耗时功能参加网址 https://github.com/theme-next/hexo-symbols-count-time 12345678# Post wordcount display settings# Dependencies: https://github.com/theme-next/hexo-symbols-count-timesymbols_count_time: separated_meta: false #设置成true后 会换行显示 item_text_post: true item_text_total: false awl: 4 wpm: 275]]></content>
       <categories>
         <category>HEXO</category>
       </categories>
