@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[NPM包管理命令]]></title>
+    <url>%2F2018%2F08%2F27%2FNPM%E5%8C%85%E7%AE%A1%E7%90%86%E5%91%BD%E4%BB%A4%2F</url>
+    <content type="text"><![CDATA[123456789101112npm安装模块【npm install xxx】利用 npm 安装xxx模块到当前命令行所在目录；【npm install -g xxx】利用npm安装全局模块xxx；本地安装时将模块写入package.json中：【npm install xxx】安装但不写入package.json；【npm install xxx –save】 安装并写入package.json的”dependencies”中；【npm install xxx –save-dev】安装并写入package.json的”devDependencies”中。npm 删除模块【npm uninstall xxx】删除xxx模块； 【npm uninstall -g xxx】删除全局模块xxx；]]></content>
+      <categories>
+        <category>Node.js</category>
+      </categories>
+      <tags>
+        <tag>npm admin</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2018%2F08%2F27%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
